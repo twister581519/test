@@ -1,1 +1,1 @@
-twister password 123
+twister password 12345678.
