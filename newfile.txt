@@ -1,2 +1,2 @@
-Second file line
+Second file line new line1
 Extra line
