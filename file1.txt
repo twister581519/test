@@ -1,4 +1,4 @@
-twister password 12345678.
+twister password .
 Add line
 Testing line
 Not testing line
