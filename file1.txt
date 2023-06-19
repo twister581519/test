@@ -1,5 +1,1 @@
-twister password .
-Add line
-Testing line
-Not testing line
-New line first branch
+twister password 123456789
